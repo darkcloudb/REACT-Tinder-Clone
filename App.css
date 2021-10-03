@@ -1,0 +1,14 @@
+/* Your CSS Here */
+body {
+  text-align: center;
+}
+
+.dogPhoto {
+  width: 500px;
+  height: 300px;
+}
+
+.dogAdopted {
+  width: 200px;
+  height: 200px;
+}
